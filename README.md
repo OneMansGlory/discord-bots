@@ -16,4 +16,7 @@ please make a PR with your change! We can then discuss it there.
    prefixes are short words (`owl`), obscure Unicode characters not usually
    found on keyboards (`¨`), and, perhaps the most unique, @mentions specific
    to your bot. Additionally, if your bot is mainly a command-style bot, avoid
-   making it respond to things that aren't commands.
+   making it respond to things that aren't commands. Also, some bots respond
+   to every single command with a @mention, please don't let your bot do that.
+   This can cause some bots to start mention wars against each other, and flood
+   the channel with something like "@bot1 yes?" "@bot2 yes?" etc etc.
